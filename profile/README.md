@@ -1,14 +1,18 @@
 # Snarfum Industries
-
-![SnarfumIndustries_300](https://github.com/SnarfumIndustries/.github/assets/13316137/d1cde88d-28da-45c6-99e3-75b02a8c9cdb)
-
 > Developing accessible magic.
 
-Welcome to Snarfum Industries' GitHub space! We're a nimble game development and C# development studio, passionately crafting lightweight yet impactful games that sprinkle delight into the world. Our aim? To embolden fresh perspectives and curate experiences that delve into nuances, ensuring everyone enjoys the ride along the way.
+<table style="padding:5px">
+  <tr>
+    <td><img src="https://github.com/SnarfumIndustries/.github/assets/13316137/d1cde88d-28da-45c6-99e3-75b02a8c9cdb" alt="Snarfum Industries Logo" width = 512px></td> 
+    <td><p>✨ Welcome to <b>Snarfum Industries</b>' GitHub space! ✨<br \><br \>We're a nimble game development and C# development studio, passionately crafting lightweight yet impactful games that sprinkle delight into the world. Our aim? To embolden fresh perspectives and curate experiences that delve into nuances, ensuring everyone enjoys the ride along the way. 🚀</p></td>
+  </tr>
+</table>
 
-## Open Source Unity Projects
+## Open Source Unity & C# Tools
 
-In this organization, you'll find a collection of Unity projects and C# tools that we've made open source. We invite you to explore, utilize, and contribute to these resources. Whether you're a fellow developer or just someone with a keen interest in game design, your collaboration and feedback are valued. Let's work together to make these tools even better for the community!
+In this organization, you'll (currently in development) find a collection of Unity projects and C# tools that we've made open source. We invite you to explore, utilize, and contribute to these resources. Whether you're a fellow developer or just someone with a keen interest in game design, your collaboration and feedback are valued.
+
+#### _TOOLS IN PROGRESS_
 
 <!--
 **Here are some ideas to get you started:**
